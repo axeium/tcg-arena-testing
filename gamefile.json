@@ -18,8 +18,10 @@
       "sections": {
         "layout": {
           "direction": "row",
-          "content": [{"direction": "column", "content": [{"section": "zone1"}] },
-                      {"direction": "column", "content": [{"section": "zone2"}] }]
+          "content": [{"direction": "column", "content": [{"section": "fortress"}, {"section": "hearts"}, {"section": "deck"}] },
+                      {"direction": "column", "content": [{"section": "zone2"}]
+                      
+                      }]
         },
         "sectionsDict": {
           "zone1": { "isHidden": "no", "height": "MEDIUM", "alignment": "CENTER" },
