@@ -9,9 +9,15 @@
   "gameplay": {
     "Standard": {
       "mulligan": { 
-        "startingHandSize": 5,
+        "startingHandSize": 6,
         "mulliganCount": { "max": 5 },
         "mulliganCycle": {
+          "info": "First mulligan is free: redraw all 5. Each mulligan after that costs 1 card from your starting hand.",
+          "steps": ["toBottom", "shuffle", "draw"],
+          "selectionRange": {"min": 6, "max": 6}
+        },
+        "postMulligan": {
+          "minMulligansToTrigger": 1,
           "info": "First mulligan is free: redraw all 5. Each mulligan after that costs 1 card from your starting hand.",
           "steps": ["toBottom", "shuffle", "applyPenalty", "draw"],
           "selectionRange": {"min": 6, "max": 6}
