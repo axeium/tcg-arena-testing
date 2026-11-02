@@ -14,7 +14,7 @@
       "newTurn": { 
         "drawPerTurn": 1 
       },
-      "countersStartingValues": [],
+      "countersStartingValues": [8, 12],
       "sections": {
         "layout": {
           "direction": "row",
