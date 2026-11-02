@@ -27,7 +27,7 @@
     }
   },
   "cards": {
-    "dataUrl": "https://raw.githubusercontent.com/axeium/tcg-arena-testing/refs/heads/main/cards.json?token=GHSAT0AAAAAAEOOOOOU72225DPPE2HTXPCY2XH5A4A",
+    "dataUrl": "https://raw.githubusercontent.com/axeium/tcg-arena-testing/refs/heads/main/cards.json",
     "cardBack": "https://github.com/axeium/tcg-arena-testing/blob/main/CARD_IMAGES/cardback.png?raw=true"
 
   }
