@@ -17,8 +17,8 @@
           "selectionRange": {"min": 5, "max": 6}
         },
         "postMulligan":{
-          "minMulligansToTrigger": 2,
-          "info": "First mulligan is free: redraw all 5. Each mulligan after that costs 1 card from your starting hand.",
+          "minMulligansToTrigger": 1,
+          "info": "POST MULLIGAN First mulligan is free: redraw all 5. Each mulligan after that costs 1 card from your starting hand.",
           "steps": ["toBottom", "shuffle", "applyPenalty", "draw"],
           "selectionRange": {"min": 5, "max": 6}
         }
@@ -31,7 +31,7 @@
         "layout": {
           "direction": "row",
           "content": [{"direction": "column", 
-                        "style": {"width": "45vw"},
+                        "style": {"width": "30vw"},
                         "content": [
                                     {"section": "fortress"},
                                     {"direction": "row", 
