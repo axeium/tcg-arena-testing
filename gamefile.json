@@ -9,26 +9,30 @@
   "gameplay": {
     "Standard": {
       "mulligan": { 
-        "startingHandSize": 3 
+        "startingHandSize": 5
       },
       "newTurn": { 
-        "drawPerTurn": 1 
+        "drawPerTurn": 2
       },
       "countersStartingValues": [8, 12],
       "sections": {
         "layout": {
           "direction": "row",
-          "content": [{"direction": "column", "content": [
-                                                          {"section": "fortress"},
-                                                          {"direction": "row", "content": [
-                                                                                          {"section": "spoiled"},
-                                                                                          {"section": "reserves"}
-                                                                                        ]
-                                                          }
-                                                        ]
-                                                        
+          "content": [{"direction": "column", 
+                        "style": {"width": "20%"},
+                        "content": [
+                                    {"section": "fortress"},
+                                    {"direction": "row", "content": [
+                                                                    {"section": "spoiled"},
+                                                                    {"section": "reserves"}
+                                                                  ]
+                                    }
+                                  ]                             
                       },
-                      {"direction": "column", "content": [{"section": "traps"}, {"section": "minions"}]}
+                      {"direction": "column", "content": [{"section": "traps"},
+                                                          {"section": "minions"}
+                                                          ]
+                      }
                     ]
         },
         "sectionsDict": {
