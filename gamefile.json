@@ -18,10 +18,12 @@
       "sections": {
         "layout": {
           "direction": "column",
-          "content": [{ "section": "Board" }]
+          "content": [{"direction": "column", "content": [{"section": "zone1"}] },
+                      {"direction": "column", "content": [{"section": "zone2"}] }]
         },
         "sectionsDict": {
-          "Board": { "isHidden": "no", "height": "MEDIUM", "alignment": "CENTER" }
+          "zone1": { "isHidden": "no", "height": "MEDIUM", "alignment": "CENTER" },
+          "zone2": { "isHidden": "no", "height": "MEDIUM", "alignment": "CENTER" }
         }
       }
     }
