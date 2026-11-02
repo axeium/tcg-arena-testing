@@ -1,4 +1,5 @@
 {
+ "1":{
     "id": "1",
     "face": {
         "front": {
@@ -17,7 +18,8 @@
     "name": "Scared Human",
     "type": "Minion",
     "cost": "1"
-}{
+ },
+ "2":{
     "id": "2",
     "face": {
         "front": {
@@ -36,7 +38,8 @@
     "name": "Goblin Watchmen",
     "type": "Minion",
     "cost": "2"
-}{
+ },
+ "3":{
     "id": "3",
     "face": {
         "front": {
@@ -55,4 +58,5 @@
     "name": "Dwarven Keeper",
     "type": "Minion",
     "cost": "2"
+ }
 }
