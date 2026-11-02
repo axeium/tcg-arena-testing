@@ -25,7 +25,7 @@
         "layout": {
           "direction": "row",
           "content": [{"direction": "column", 
-                        "style": {"width": "42vh"},
+                        "style": {"width": "45vh"},
                         "content": [
                                     {"section": "fortress"},
                                     {"direction": "row", 
