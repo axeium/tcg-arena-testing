@@ -18,6 +18,7 @@
       "sections": {
         "layout": {
           "direction": "row",
+          "style": {"height": "90vh"},
           "content": [{"direction": "column", 
                         "style": {"width": "45vw"},
                         "content": [
