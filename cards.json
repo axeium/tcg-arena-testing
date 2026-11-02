@@ -1,0 +1,58 @@
+{
+    "id": "1",
+    "face": {
+        "front": {
+            "name": {
+                "name": "Scared Human"
+            },
+            "type": "Minion",
+            "cost": "1",
+            "image": "https://github.com/axeium/tcg-arena-testing/blob/c0682c8e41e0363d76689d9dcf1ab1ac518b497d/CARD_IMAGES/1.png",
+            "attack": "1",
+            "hp": "2",
+            "keywords": "Rush",
+            "flavor": "Zoinks\u2026What's that sound?"
+        }
+    },
+    "name": "Scared Human",
+    "type": "Minion",
+    "cost": "1"
+}{
+    "id": "2",
+    "face": {
+        "front": {
+            "name": {
+                "name": "Goblin Watchmen"
+            },
+            "type": "Minion",
+            "cost": "2",
+            "image": "https://github.com/axeium/tcg-arena-testing/blob/c0682c8e41e0363d76689d9dcf1ab1ac518b497d/CARD_IMAGES/2.png",
+            "attack": "2",
+            "hp": "2",
+            "keywords": "On play: Draw 1 card.",
+            "flavor": "Back already? What did you find?"
+        }
+    },
+    "name": "Goblin Watchmen",
+    "type": "Minion",
+    "cost": "2"
+}{
+    "id": "3",
+    "face": {
+        "front": {
+            "name": {
+                "name": "Dwarven Keeper"
+            },
+            "type": "Minion",
+            "cost": "2",
+            "image": "https://github.com/axeium/tcg-arena-testing/blob/c0682c8e41e0363d76689d9dcf1ab1ac518b497d/CARD_IMAGES/3.png",
+            "attack": "1",
+            "hp": "3",
+            "keywords": "Guard",
+            "flavor": "You must be at most this tall to enter."
+        }
+    },
+    "name": "Dwarven Keeper",
+    "type": "Minion",
+    "cost": "2"
+}
