@@ -14,7 +14,7 @@
         "mulliganCycle": {
           "info": "First mulligan is free: redraw all 5. Each mulligan after that costs 1 card from your starting hand.",
           "steps": ["toBottom", "shuffle", "applyPenalty", "draw"],
-          "selectionRange": {"max": 6}
+          "selectionRange": {"min": 6, "max": 6}
         }
       },
       "newTurn": { 
