@@ -23,10 +23,10 @@
                       ]
         },
         "sectionsDict": {
-          "fortress": { "isHidden": "no", "height": "SMALL", "alignment": "CENTER" },
-          "hearts": { "isHidden": "no", "height": "SMALL", "alignment": "CENTER" },
-          "deck": { "isHidden": "no", "height": "SMALL", "alignment": "CENTER" },
-          "zone2": { "isHidden": "no", "height": "MEDIUM", "alignment": "CENTER" }
+          "fortress": { "isHidden": "no", "height": "SMALL", "alignment": "CENTER"},
+          "hearts": { "isHidden": "no", "height": "SMALL", "alignment": "CENTER"},
+          "deck": { "isHidden": "no", "height": "SMALL", "alignment": "CENTER"},
+          "zone2": { "isHidden": "no", "height": "MEDIUM", "alignment": "CENTER"}
         }
       }
     }
@@ -34,6 +34,5 @@
   "cards": {
     "dataUrl": "https://axeium.github.io/tcg-arena-testing/cards.json",
     "cardBack": "https://axeium.github.io/tcg-arena-testing/CARD_IMAGES/cardback.png"
-
   }
 }
