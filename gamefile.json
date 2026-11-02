@@ -18,14 +18,16 @@
       "sections": {
         "layout": {
           "direction": "row",
+          "style": {"height": "95%"},
           "content": [{"direction": "column", 
                         "style": {"width": "30%"},
                         "content": [
                                     {"section": "fortress"},
-                                    {"direction": "row", "content": [
-                                                                    {"section": "spoiled"},
-                                                                    {"section": "reserves"}
-                                                                  ]
+                                    {"direction": "row", 
+                                      "content": [
+                                                  {"section": "spoiled"},
+                                                  {"section": "reserves"}
+                                                ]
                                     }
                                   ]                             
                       },
