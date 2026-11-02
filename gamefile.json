@@ -19,7 +19,7 @@
         "layout": {
           "direction": "row",
           "content": [{"direction": "column", 
-                        "style": {"width": "20%"},
+                        "style": {"width": "30%"},
                         "content": [
                                     {"section": "fortress"},
                                     {"direction": "row", "content": [
