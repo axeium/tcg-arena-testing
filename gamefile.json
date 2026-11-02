@@ -17,7 +17,7 @@
       "countersStartingValues": [],
       "sections": {
         "layout": {
-          "direction": "column",
+          "direction": "row",
           "content": [{"direction": "column", "content": [{"section": "zone1"}] },
                       {"direction": "column", "content": [{"section": "zone2"}] }]
         },
