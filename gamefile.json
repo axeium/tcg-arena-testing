@@ -18,9 +18,9 @@
       "sections": {
         "layout": {
           "direction": "row",
-          "style": {"height": "80%"},
+          "style": {"height": "95vh"},
           "content": [{"direction": "column", 
-                        "style": {"width": "30%"},
+                        "style": {"width": "30vh"},
                         "content": [
                                     {"section": "fortress"},
                                     {"direction": "row", 
