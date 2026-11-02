@@ -18,15 +18,24 @@
       "sections": {
         "layout": {
           "direction": "row",
-          "content": [{"direction": "column", "content": [{"section": "fortress"}, {"section": "hearts"}, {"section": "deck"}]},
+          "content": [{"direction": "column", "content": [
+                                                          {"section": "fortress"},
+                                                          {"direction": "row", "conent": [
+                                                                                          {"section": "spoiled"},
+                                                                                          {"section": "reserves"}
+                                                                                        ]
+                                                          }
+                                                        ]
+                                                        
+                      },
                       {"direction": "column", "content": [{"section": "traps"}, {"section": "minions"}]}
                       ]
         },
         "sectionsDict": {
           "fortress": { "isHidden": "no", "height": "SMALL", "alignment": "CENTER"},
-          "hearts": { "isHidden": "no", "height": "SMALL", "alignment": "CENTER"},
-          "deck": { "isHidden": "no", "height": "SMALL", "alignment": "CENTER"},
-          "traps": { "isHidden": "no", "height": "MEDIUM", "alignment": "CENTER"},
+          "spoiled": { "isHidden": "yes", "height": "SMALL", "alignment": "CENTER"},
+          "reserves": { "isHidden": "no", "height": "MEDIUM", "alignment": "CENTER"},
+          "traps": { "isHidden": "yes", "height": "MEDIUM", "alignment": "CENTER"},
           "minions": { "isHidden": "no", "height": "MEDIUM", "alignment": "CENTER"}
         }
       }
