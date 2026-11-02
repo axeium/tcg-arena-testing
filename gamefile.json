@@ -20,7 +20,7 @@
           "direction": "row",
           "content": [{"direction": "column", "content": [
                                                           {"section": "fortress"},
-                                                          {"direction": "row", "conent": [
+                                                          {"direction": "row", "content": [
                                                                                           {"section": "spoiled"},
                                                                                           {"section": "reserves"}
                                                                                         ]
@@ -29,7 +29,7 @@
                                                         
                       },
                       {"direction": "column", "content": [{"section": "traps"}, {"section": "minions"}]}
-                      ]
+                    ]
         },
         "sectionsDict": {
           "fortress": { "isHidden": "no", "height": "SMALL", "alignment": "CENTER"},
