@@ -1,5 +1,7 @@
 {
   "name": "Fortress TEST",
+  "menuBackgroundImage": "https://i.postimg.cc/yY2Q0nYc/Background-Less.jpg",
+  "defaultRessources": ["https://i.postimg.cc/yY2Q0nYc/Background-Less.jpg", "https://i.postimg.cc/Gh67vzhk/Background-More.jpg"],
   "deckBuilding": {
     "mainFilters": ["type", "cost"],
     "formats": [
