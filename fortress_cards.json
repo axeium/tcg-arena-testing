@@ -1,0 +1,1370 @@
+{
+    "AA01": {
+        "id": "AA01",
+        "face": {
+            "front": {
+                "name": {
+                    "name": "Lord Reginald Oink III"
+                },
+                "type": "Minion",
+                "cost": "1",
+                "image": "https://i.postimg.cc/3JBrDWT8/AA01.png"
+            }
+        },
+        "name": "Lord Reginald Oink III",
+        "type": "Minion",
+        "cost": "1",
+        "attack": "1",
+        "hp": "2",
+        "class": "Animal Aristocracy"
+    },
+    "AA02": {
+        "id": "AA02",
+        "face": {
+            "front": {
+                "name": {
+                    "name": "Countess Henrietta Hiss"
+                },
+                "type": "Minion",
+                "cost": "2",
+                "image": "https://i.postimg.cc/c4m186S1/AA02.png"
+            }
+        },
+        "name": "Countess Henrietta Hiss",
+        "type": "Minion",
+        "cost": "2",
+        "attack": "2",
+        "hp": "3",
+        "class": "Animal Aristocracy"
+    },
+    "AA03": {
+        "id": "AA03",
+        "face": {
+            "front": {
+                "name": {
+                    "name": "Sir Clucks-a-Lot"
+                },
+                "type": "Minion",
+                "cost": "2",
+                "image": "https://i.postimg.cc/Pf15T2VZ/AA03.png"
+            }
+        },
+        "name": "Sir Clucks-a-Lot",
+        "type": "Minion",
+        "cost": "2",
+        "attack": "3",
+        "hp": "1",
+        "class": "Animal Aristocracy"
+    },
+    "AA04": {
+        "id": "AA04",
+        "face": {
+            "front": {
+                "name": {
+                    "name": "Duke Barnaby Floof"
+                },
+                "type": "Minion",
+                "cost": "3",
+                "image": "https://i.postimg.cc/Df1wnBpb/AA04.png"
+            }
+        },
+        "name": "Duke Barnaby Floof",
+        "type": "Minion",
+        "cost": "3",
+        "attack": "3",
+        "hp": "4",
+        "class": "Animal Aristocracy"
+    },
+    "AA05": {
+        "id": "AA05",
+        "face": {
+            "front": {
+                "name": {
+                    "name": "The Grand Vizier Mouse"
+                },
+                "type": "Minion",
+                "cost": "3",
+                "image": "https://i.postimg.cc/J7jzMPYX/AA05.png"
+            }
+        },
+        "name": "The Grand Vizier Mouse",
+        "type": "Minion",
+        "cost": "3",
+        "attack": "2",
+        "hp": "3",
+        "class": "Animal Aristocracy"
+    },
+    "AA06": {
+        "id": "AA06",
+        "face": {
+            "front": {
+                "name": {
+                    "name": "Madame Plume the Peacock"
+                },
+                "type": "Minion",
+                "cost": "4",
+                "image": "https://i.postimg.cc/Kct8xJp3/AA06.png"
+            }
+        },
+        "name": "Madame Plume the Peacock",
+        "type": "Minion",
+        "cost": "4",
+        "attack": "3",
+        "hp": "5",
+        "class": "Animal Aristocracy"
+    },
+    "AA07": {
+        "id": "AA07",
+        "face": {
+            "front": {
+                "name": {
+                    "name": "Baron Von Stampington"
+                },
+                "type": "Minion",
+                "cost": "5",
+                "image": "https://i.postimg.cc/CMbxSmrk/AA07.png"
+            }
+        },
+        "name": "Baron Von Stampington",
+        "type": "Minion",
+        "cost": "5",
+        "attack": "5",
+        "hp": "5",
+        "class": "Animal Aristocracy"
+    },
+    "AA08": {
+        "id": "AA08",
+        "face": {
+            "front": {
+                "name": {
+                    "name": "His Royal Highness, King Gerald the Elephant"
+                },
+                "type": "Minion",
+                "cost": "7",
+                "image": "https://i.postimg.cc/v85Zb325/AA08.png"
+            }
+        },
+        "name": "His Royal Highness, King Gerald the Elephant",
+        "type": "Minion",
+        "cost": "7",
+        "attack": "6",
+        "hp": "6",
+        "class": "Animal Aristocracy"
+    },
+    "AA09": {
+        "id": "AA09",
+        "face": {
+            "front": {
+                "name": {
+                    "name": "Breach of Etiquette"
+                },
+                "type": "Trap",
+                "cost": "1",
+                "image": "https://i.postimg.cc/NGRjBpC1/AA09.png"
+            }
+        },
+        "name": "Breach of Etiquette",
+        "type": "Trap",
+        "cost": "1",
+        "attack": "",
+        "hp": "",
+        "class": "Animal Aristocracy"
+    },
+    "AA10": {
+        "id": "AA10",
+        "face": {
+            "front": {
+                "name": {
+                    "name": "The Grand Entrance"
+                },
+                "type": "Trap",
+                "cost": "2",
+                "image": "https://i.postimg.cc/Wp01TXYG/AA10.png"
+            }
+        },
+        "name": "The Grand Entrance",
+        "type": "Trap",
+        "cost": "2",
+        "attack": "",
+        "hp": "",
+        "class": "Animal Aristocracy"
+    },
+    "AA11": {
+        "id": "AA11",
+        "face": {
+            "front": {
+                "name": {
+                    "name": "Invitation Rescinded"
+                },
+                "type": "Spell",
+                "cost": "2",
+                "image": "https://i.postimg.cc/gc32mNtH/AA11.png"
+            }
+        },
+        "name": "Invitation Rescinded",
+        "type": "Spell",
+        "cost": "2",
+        "attack": "",
+        "hp": "",
+        "class": "Animal Aristocracy"
+    },
+    "AA12": {
+        "id": "AA12",
+        "face": {
+            "front": {
+                "name": {
+                    "name": "Faux Pas"
+                },
+                "type": "Spell",
+                "cost": "3",
+                "image": "https://i.postimg.cc/RCwZ4XpT/AA12.png"
+            }
+        },
+        "name": "Faux Pas",
+        "type": "Spell",
+        "cost": "3",
+        "attack": "",
+        "hp": "",
+        "class": "Animal Aristocracy"
+    },
+    "AA13": {
+        "id": "AA13",
+        "face": {
+            "front": {
+                "name": {
+                    "name": "Duel Challenge"
+                },
+                "type": "Trap",
+                "cost": "2",
+                "image": "https://i.postimg.cc/J7jzMPYq/AA13.png"
+            }
+        },
+        "name": "Duel Challenge",
+        "type": "Trap",
+        "cost": "2",
+        "attack": "",
+        "hp": "",
+        "class": "Animal Aristocracy"
+    },
+    "AA14": {
+        "id": "AA14",
+        "face": {
+            "front": {
+                "name": {
+                    "name": "The King's Displeasure"
+                },
+                "type": "Trap",
+                "cost": "2",
+                "image": "https://i.postimg.cc/nVqhp0ST/AA14.png"
+            }
+        },
+        "name": "The King's Displeasure",
+        "type": "Trap",
+        "cost": "2",
+        "attack": "",
+        "hp": "",
+        "class": "Animal Aristocracy"
+    },
+    "AA15": {
+        "id": "AA15",
+        "face": {
+            "front": {
+                "name": {
+                    "name": "A Most Scandalous Affair"
+                },
+                "type": "Trap",
+                "cost": "3",
+                "image": "https://i.postimg.cc/wxDjg040/AA15.png"
+            }
+        },
+        "name": "A Most Scandalous Affair",
+        "type": "Trap",
+        "cost": "3",
+        "attack": "",
+        "hp": "",
+        "class": "Animal Aristocracy"
+    },
+    "AA16": {
+        "id": "AA16",
+        "face": {
+            "front": {
+                "name": {
+                    "name": "Entertainment for the King"
+                },
+                "type": "Trap",
+                "cost": "2",
+                "image": "https://i.postimg.cc/v85Zb320/AA16.png"
+            }
+        },
+        "name": "Entertainment for the King",
+        "type": "Trap",
+        "cost": "2",
+        "attack": "",
+        "hp": "",
+        "class": "Animal Aristocracy"
+    },
+    "AA17": {
+        "id": "AA17",
+        "face": {
+            "front": {
+                "name": {
+                    "name": "Queen Tuskirina's Enforcers"
+                },
+                "type": "Minion",
+                "cost": "5",
+                "image": "https://i.postimg.cc/h4VtcpZC/AA17.png"
+            }
+        },
+        "name": "Queen Tuskirina's Enforcers",
+        "type": "Minion",
+        "cost": "5",
+        "attack": "4",
+        "hp": "4",
+        "class": "Animal Aristocracy"
+    },
+    "AA18": {
+        "id": "AA18",
+        "face": {
+            "front": {
+                "name": {
+                    "name": "Royal Trap Master Whiskers"
+                },
+                "type": "Minion",
+                "cost": "1",
+                "image": "https://i.postimg.cc/gc32mNtS/AA18.png"
+            }
+        },
+        "name": "Royal Trap Master Whiskers",
+        "type": "Minion",
+        "cost": "1",
+        "attack": "1",
+        "hp": "1",
+        "class": "Animal Aristocracy"
+    },
+    "AA19": {
+        "id": "AA19",
+        "face": {
+            "front": {
+                "name": {
+                    "name": "Baaron Edgar Hooves"
+                },
+                "type": "Minion",
+                "cost": "3",
+                "image": "https://i.postimg.cc/XN9Y4Q1z/AA19.png"
+            }
+        },
+        "name": "Baaron Edgar Hooves",
+        "type": "Minion",
+        "cost": "3",
+        "attack": "2",
+        "hp": "3",
+        "class": "Animal Aristocracy"
+    },
+    "AA20": {
+        "id": "AA20",
+        "face": {
+            "front": {
+                "name": {
+                    "name": "Robin In a Hood"
+                },
+                "type": "Minion",
+                "cost": "5",
+                "image": "https://i.postimg.cc/Kct8xJps/AA20.png"
+            }
+        },
+        "name": "Robin In a Hood",
+        "type": "Minion",
+        "cost": "5",
+        "attack": "5",
+        "hp": "3",
+        "class": "Animal Aristocracy"
+    },
+    "AA21": {
+        "id": "AA21",
+        "face": {
+            "front": {
+                "name": {
+                    "name": "Noblesse Oblige"
+                },
+                "type": "Spell",
+                "cost": "5",
+                "image": "https://i.postimg.cc/rFcFmx7N/AA21.png"
+            }
+        },
+        "name": "Noblesse Oblige",
+        "type": "Spell",
+        "cost": "5",
+        "attack": "",
+        "hp": "",
+        "class": "Animal Aristocracy"
+    },
+    "AA22": {
+        "id": "AA22",
+        "face": {
+            "front": {
+                "name": {
+                    "name": "Knights of The Hay stack"
+                },
+                "type": "Spell",
+                "cost": "3",
+                "image": "https://i.postimg.cc/rFcFmx7G/AA22.png"
+            }
+        },
+        "name": "Knights of The Hay stack",
+        "type": "Spell",
+        "cost": "3",
+        "attack": "",
+        "hp": "",
+        "class": "Animal Aristocracy"
+    },
+    "AA23": {
+        "id": "AA23",
+        "face": {
+            "front": {
+                "name": {
+                    "name": "White Glove"
+                },
+                "type": "Trap",
+                "cost": "1",
+                "image": "https://i.postimg.cc/FsmsR3wT/AA23.png"
+            }
+        },
+        "name": "White Glove",
+        "type": "Trap",
+        "cost": "1",
+        "attack": "",
+        "hp": "",
+        "class": "Animal Aristocracy"
+    },
+    "AA24": {
+        "id": "AA24",
+        "face": {
+            "front": {
+                "name": {
+                    "name": "Murder Of Crows"
+                },
+                "type": "Spell",
+                "cost": "5",
+                "image": "https://i.postimg.cc/zX5XBK40/AA24.png"
+            }
+        },
+        "name": "Murder Of Crows",
+        "type": "Spell",
+        "cost": "5",
+        "attack": "",
+        "hp": "",
+        "class": "Animal Aristocracy"
+    },
+    "AA25": {
+        "id": "AA25",
+        "face": {
+            "front": {
+                "name": {
+                    "name": "The Headsman"
+                },
+                "type": "Minion",
+                "cost": "6",
+                "image": "https://i.postimg.cc/fTZTLm1H/AA25.png"
+            }
+        },
+        "name": "The Headsman",
+        "type": "Minion",
+        "cost": "6",
+        "attack": "5",
+        "hp": "5",
+        "class": "Animal Aristocracy"
+    },
+    "AA26": {
+        "id": "AA26",
+        "face": {
+            "front": {
+                "name": {
+                    "name": "Winston the Bodyguard"
+                },
+                "type": "Minion",
+                "cost": "2",
+                "image": "https://i.postimg.cc/Qxsxt1v4/AA26.png"
+            }
+        },
+        "name": "Winston the Bodyguard",
+        "type": "Minion",
+        "cost": "2",
+        "attack": "3",
+        "hp": "4",
+        "class": "Animal Aristocracy"
+    },
+    "AA27": {
+        "id": "AA27",
+        "face": {
+            "front": {
+                "name": {
+                    "name": "The Buck That was Promised"
+                },
+                "type": "Minion",
+                "cost": "4",
+                "image": "https://i.postimg.cc/TYGYwgBs/AA27.png"
+            }
+        },
+        "name": "The Buck That was Promised",
+        "type": "Minion",
+        "cost": "4",
+        "attack": "3",
+        "hp": "4",
+        "class": "Animal Aristocracy"
+    },
+    "AA28": {
+        "id": "AA28",
+        "face": {
+            "front": {
+                "name": {
+                    "name": "Assassination attempt"
+                },
+                "type": "Spell",
+                "cost": "2",
+                "image": "https://i.postimg.cc/FsmsR3wq/AA28.png"
+            }
+        },
+        "name": "Assassination attempt",
+        "type": "Spell",
+        "cost": "2",
+        "attack": "",
+        "hp": "",
+        "class": "Animal Aristocracy"
+    },
+    "AA29": {
+        "id": "AA29",
+        "face": {
+            "front": {
+                "name": {
+                    "name": "Poisoned Chalice"
+                },
+                "type": "Spell",
+                "cost": "4",
+                "image": "https://i.postimg.cc/8PDP5Mx0/AA29.png"
+            }
+        },
+        "name": "Poisoned Chalice",
+        "type": "Spell",
+        "cost": "4",
+        "attack": "",
+        "hp": "",
+        "class": "Animal Aristocracy"
+    },
+    "AA30": {
+        "id": "AA30",
+        "face": {
+            "front": {
+                "name": {
+                    "name": "Bull in a Cake Shop"
+                },
+                "type": "Minion",
+                "cost": "3",
+                "image": "https://i.postimg.cc/ncZczBNg/AA30.png"
+            }
+        },
+        "name": "Bull in a Cake Shop",
+        "type": "Minion",
+        "cost": "3",
+        "attack": "3",
+        "hp": "3",
+        "class": "Animal Aristocracy"
+    },
+    "AA31": {
+        "id": "AA31",
+        "face": {
+            "front": {
+                "name": {
+                    "name": "Let me eat Cake"
+                },
+                "type": "Spell",
+                "cost": "1",
+                "image": "https://i.postimg.cc/8PDP5MqQ/AA31.png"
+            }
+        },
+        "name": "Let me eat Cake",
+        "type": "Spell",
+        "cost": "1",
+        "attack": "",
+        "hp": "",
+        "class": "Animal Aristocracy"
+    },
+    "AA32": {
+        "id": "AA32",
+        "face": {
+            "front": {
+                "name": {
+                    "name": "Guilotine"
+                },
+                "type": "Spell",
+                "cost": "7",
+                "image": "https://i.postimg.cc/yYBYdcwC/AA32.png"
+            }
+        },
+        "name": "Guilotine",
+        "type": "Spell",
+        "cost": "7",
+        "attack": "",
+        "hp": "",
+        "class": "Animal Aristocracy"
+    },
+    "AA33": {
+        "id": "AA33",
+        "face": {
+            "front": {
+                "name": {
+                    "name": "Queens Head"
+                },
+                "type": "Minion",
+                "cost": "2",
+                "image": "https://i.postimg.cc/5N1N0LZM/AA33.png"
+            }
+        },
+        "name": "Queens Head",
+        "type": "Minion",
+        "cost": "2",
+        "attack": "0",
+        "hp": "1",
+        "class": "Animal Aristocracy"
+    },
+    "AA34": {
+        "id": "AA34",
+        "face": {
+            "front": {
+                "name": {
+                    "name": "Pardon Me Sir"
+                },
+                "type": "Spell",
+                "cost": "3",
+                "image": "https://i.postimg.cc/28m86hPD/AA34.png"
+            }
+        },
+        "name": "Pardon Me Sir",
+        "type": "Spell",
+        "cost": "3",
+        "attack": "",
+        "hp": "",
+        "class": "Animal Aristocracy"
+    },
+    "AA35": {
+        "id": "AA35",
+        "face": {
+            "front": {
+                "name": {
+                    "name": "Death Mask"
+                },
+                "type": "Spell",
+                "cost": "5",
+                "image": "https://i.postimg.cc/hPgPjTHK/AA35.png"
+            }
+        },
+        "name": "Death Mask",
+        "type": "Spell",
+        "cost": "5",
+        "attack": "",
+        "hp": "",
+        "class": "Animal Aristocracy"
+    },
+    "AA36": {
+        "id": "AA36",
+        "face": {
+            "front": {
+                "name": {
+                    "name": "Gerbil-darme"
+                },
+                "type": "Minion",
+                "cost": "2",
+                "image": "https://i.postimg.cc/L6R6XLrH/AA36.png"
+            }
+        },
+        "name": "Gerbil-darme",
+        "type": "Minion",
+        "cost": "2",
+        "attack": "2",
+        "hp": "1",
+        "class": "Animal Aristocracy"
+    },
+    "AA37": {
+        "id": "AA37",
+        "face": {
+            "front": {
+                "name": {
+                    "name": "Moo-rie Antoinette"
+                },
+                "type": "Minion",
+                "cost": "4",
+                "image": "https://i.postimg.cc/Wbjb3gQb/AA37.png"
+            }
+        },
+        "name": "Moo-rie Antoinette",
+        "type": "Minion",
+        "cost": "4",
+        "attack": "3",
+        "hp": "4",
+        "class": "Animal Aristocracy"
+    },
+    "AA38": {
+        "id": "AA38",
+        "face": {
+            "front": {
+                "name": {
+                    "name": "Marquisse de Llamafayette "
+                },
+                "type": "Minion",
+                "cost": "8",
+                "image": "https://i.postimg.cc/DygfbmTK/AA38.png"
+            }
+        },
+        "name": "Marquisse de Llamafayette ",
+        "type": "Minion",
+        "cost": "8",
+        "attack": "7",
+        "hp": "8",
+        "class": "Animal Aristocracy"
+    },
+    "AA39": {
+        "id": "AA39",
+        "face": {
+            "front": {
+                "name": {
+                    "name": "Maximeowlian Robespurrrre"
+                },
+                "type": "Minion",
+                "cost": "4",
+                "image": "https://i.postimg.cc/gkDc6rWp/AA39.png"
+            }
+        },
+        "name": "Maximeowlian Robespurrrre",
+        "type": "Minion",
+        "cost": "4",
+        "attack": "3",
+        "hp": "3",
+        "class": "Animal Aristocracy"
+    },
+    "AA40": {
+        "id": "AA40",
+        "face": {
+            "front": {
+                "name": {
+                    "name": "Waiter, Can I Have Another? "
+                },
+                "type": "Trap",
+                "cost": "2",
+                "image": "https://i.postimg.cc/TY92Wh6G/AA40.png"
+            }
+        },
+        "name": "Waiter, Can I Have Another? ",
+        "type": "Trap",
+        "cost": "2",
+        "attack": "",
+        "hp": "",
+        "class": "Animal Aristocracy"
+    },
+    "AA41": {
+        "id": "AA41",
+        "face": {
+            "front": {
+                "name": {
+                    "name": "Liberty, Equality, Furrternity"
+                },
+                "type": "Spell",
+                "cost": "2",
+                "image": "https://i.postimg.cc/KvNcg42x/AA41.png"
+            }
+        },
+        "name": "Liberty, Equality, Furrternity",
+        "type": "Spell",
+        "cost": "2",
+        "attack": "",
+        "hp": "",
+        "class": "Animal Aristocracy"
+    },
+    "AA42": {
+        "id": "AA42",
+        "face": {
+            "front": {
+                "name": {
+                    "name": "Revolution"
+                },
+                "type": "Body Guard",
+                "cost": "8",
+                "image": "https://i.postimg.cc/GhQ3s9Cc/AA42.png"
+            }
+        },
+        "name": "Revolution",
+        "type": "Body Guard",
+        "cost": "8",
+        "attack": "",
+        "hp": "",
+        "class": "Animal Aristocracy"
+    },
+    "CC01": {
+        "id": "CC01",
+        "face": {
+            "front": {
+                "name": {
+                    "name": "Man with Big Feet"
+                },
+                "type": "Minion\n",
+                "cost": "2",
+                "image": "https://i.postimg.cc/SNWdLFTN/CC01.png"
+            }
+        },
+        "name": "Man with Big Feet",
+        "type": "Minion\n",
+        "cost": "2",
+        "attack": "2",
+        "hp": "2",
+        "class": "Conspiracies & Cover-ups"
+    },
+    "CC02": {
+        "id": "CC02",
+        "face": {
+            "front": {
+                "name": {
+                    "name": "Nessie (Stuffed)"
+                },
+                "type": "Minion",
+                "cost": "2",
+                "image": "https://i.postimg.cc/VLjg9QGs/CC02.png"
+            }
+        },
+        "name": "Nessie (Stuffed)",
+        "type": "Minion",
+        "cost": "2",
+        "attack": "1",
+        "hp": "4",
+        "class": "Conspiracies & Cover-ups"
+    },
+    "CC03": {
+        "id": "CC03",
+        "face": {
+            "front": {
+                "name": {
+                    "name": "Big Foot"
+                },
+                "type": "Minion",
+                "cost": "6",
+                "image": "https://i.postimg.cc/65dcVJj3/CC03.png"
+            }
+        },
+        "name": "Big Foot",
+        "type": "Minion",
+        "cost": "6",
+        "attack": "7",
+        "hp": "6",
+        "class": "Conspiracies & Cover-ups"
+    },
+    "CC04": {
+        "id": "CC04",
+        "face": {
+            "front": {
+                "name": {
+                    "name": "Loch Ness Monster"
+                },
+                "type": "Minion",
+                "cost": "7",
+                "image": "https://i.postimg.cc/X7wLKSHq/CC04.png"
+            }
+        },
+        "name": "Loch Ness Monster",
+        "type": "Minion",
+        "cost": "7",
+        "attack": "7",
+        "hp": "7",
+        "class": "Conspiracies & Cover-ups"
+    },
+    "CC05": {
+        "id": "CC05",
+        "face": {
+            "front": {
+                "name": {
+                    "name": "Man in Sunglasses"
+                },
+                "type": "Minion",
+                "cost": "2",
+                "image": "https://i.postimg.cc/RVcd15sq/CC05.png"
+            }
+        },
+        "name": "Man in Sunglasses",
+        "type": "Minion",
+        "cost": "2",
+        "attack": "2",
+        "hp": "3",
+        "class": "Conspiracies & Cover-ups"
+    },
+    "CC06": {
+        "id": "CC06",
+        "face": {
+            "front": {
+                "name": {
+                    "name": "Probed by Little Green Men"
+                },
+                "type": "Spell",
+                "cost": "6",
+                "image": "https://i.postimg.cc/284GdRcV/CC06.png"
+            }
+        },
+        "name": "Probed by Little Green Men",
+        "type": "Spell",
+        "cost": "6",
+        "attack": "",
+        "hp": "",
+        "class": "Conspiracies & Cover-ups"
+    },
+    "CC07": {
+        "id": "CC07",
+        "face": {
+            "front": {
+                "name": {
+                    "name": "Little Green Men (Costume)"
+                },
+                "type": "Minion",
+                "cost": "2",
+                "image": "https://i.postimg.cc/4NzPvkLh/CC07.png"
+            }
+        },
+        "name": "Little Green Men (Costume)",
+        "type": "Minion",
+        "cost": "2",
+        "attack": "2",
+        "hp": "2",
+        "class": "Conspiracies & Cover-ups"
+    },
+    "CC08": {
+        "id": "CC08",
+        "face": {
+            "front": {
+                "name": {
+                    "name": "Little Green Men"
+                },
+                "type": "Minion",
+                "cost": "5",
+                "image": "https://i.postimg.cc/jdzc60g7/CC08.png"
+            }
+        },
+        "name": "Little Green Men",
+        "type": "Minion",
+        "cost": "5",
+        "attack": "5",
+        "hp": "5",
+        "class": "Conspiracies & Cover-ups"
+    },
+    "CC09": {
+        "id": "CC09",
+        "face": {
+            "front": {
+                "name": {
+                    "name": "Mind Wipe"
+                },
+                "type": "Spell",
+                "cost": "5",
+                "image": "https://i.postimg.cc/hP9s8WyT/CC09.png"
+            }
+        },
+        "name": "Mind Wipe",
+        "type": "Spell",
+        "cost": "5",
+        "attack": "",
+        "hp": "",
+        "class": "Conspiracies & Cover-ups"
+    },
+    "CC10": {
+        "id": "CC10",
+        "face": {
+            "front": {
+                "name": {
+                    "name": "The Black Room"
+                },
+                "type": "Trap",
+                "cost": "3",
+                "image": "https://i.postimg.cc/Nf1D8qJ1/CC10.png"
+            }
+        },
+        "name": "The Black Room",
+        "type": "Trap",
+        "cost": "3",
+        "attack": "",
+        "hp": "",
+        "class": "Conspiracies & Cover-ups"
+    },
+    "CC11": {
+        "id": "CC11",
+        "face": {
+            "front": {
+                "name": {
+                    "name": "Moon Landing Studio"
+                },
+                "type": "Minion",
+                "cost": "2",
+                "image": "https://i.postimg.cc/VLjg9QGW/CC11.png"
+            }
+        },
+        "name": "Moon Landing Studio",
+        "type": "Minion",
+        "cost": "2",
+        "attack": "1",
+        "hp": "4",
+        "class": "Conspiracies & Cover-ups"
+    },
+    "CC12": {
+        "id": "CC12",
+        "face": {
+            "front": {
+                "name": {
+                    "name": "Awakening"
+                },
+                "type": "Trap",
+                "cost": "8",
+                "image": "https://i.postimg.cc/dVwB4Hpk/CC12.png"
+            }
+        },
+        "name": "Awakening",
+        "type": "Trap",
+        "cost": "8",
+        "attack": "",
+        "hp": "",
+        "class": "Conspiracies & Cover-ups"
+    },
+    "CC13": {
+        "id": "CC13",
+        "face": {
+            "front": {
+                "name": {
+                    "name": "Beam Me Up"
+                },
+                "type": "Spell",
+                "cost": "4",
+                "image": "https://i.postimg.cc/CxSNmPXn/CC13.png"
+            }
+        },
+        "name": "Beam Me Up",
+        "type": "Spell",
+        "cost": "4",
+        "attack": "",
+        "hp": "",
+        "class": "Conspiracies & Cover-ups"
+    },
+    "CC14": {
+        "id": "CC14",
+        "face": {
+            "front": {
+                "name": {
+                    "name": "Federal Agents"
+                },
+                "type": "Minion",
+                "cost": "4",
+                "image": "https://i.postimg.cc/XY48QHmy/CC14.png"
+            }
+        },
+        "name": "Federal Agents",
+        "type": "Minion",
+        "cost": "4",
+        "attack": "3",
+        "hp": "5",
+        "class": "Conspiracies & Cover-ups"
+    },
+    "CC15": {
+        "id": "CC15",
+        "face": {
+            "front": {
+                "name": {
+                    "name": "Illuminati"
+                },
+                "type": "Spell",
+                "cost": "5",
+                "image": "https://i.postimg.cc/dVwB4Hpr/CC15.png"
+            }
+        },
+        "name": "Illuminati",
+        "type": "Spell",
+        "cost": "5",
+        "attack": "",
+        "hp": "",
+        "class": "Conspiracies & Cover-ups"
+    },
+    "CC16": {
+        "id": "CC16",
+        "face": {
+            "front": {
+                "name": {
+                    "name": "Annoying Little Fairies"
+                },
+                "type": "Minion",
+                "cost": "2",
+                "image": "https://i.postimg.cc/g2mDNSQv/CC16.png"
+            }
+        },
+        "name": "Annoying Little Fairies",
+        "type": "Minion",
+        "cost": "2",
+        "attack": "1",
+        "hp": "2",
+        "class": "Conspiracies & Cover-ups"
+    },
+    "CC17": {
+        "id": "CC17",
+        "face": {
+            "front": {
+                "name": {
+                    "name": "Man in a Fur Coat"
+                },
+                "type": "Minion",
+                "cost": "2",
+                "image": "https://i.postimg.cc/y8sPvQtm/CC17.png"
+            }
+        },
+        "name": "Man in a Fur Coat",
+        "type": "Minion",
+        "cost": "2",
+        "attack": "2",
+        "hp": "2",
+        "class": "Conspiracies & Cover-ups"
+    },
+    "CC18": {
+        "id": "CC18",
+        "face": {
+            "front": {
+                "name": {
+                    "name": "The Abominable Snowman"
+                },
+                "type": "Minion",
+                "cost": "7",
+                "image": "https://i.postimg.cc/MpqDdPNb/CC18.png"
+            }
+        },
+        "name": "The Abominable Snowman",
+        "type": "Minion",
+        "cost": "7",
+        "attack": "6",
+        "hp": "8",
+        "class": "Conspiracies & Cover-ups"
+    },
+    "CC19": {
+        "id": "CC19",
+        "face": {
+            "front": {
+                "name": {
+                    "name": "Blurry Photograph"
+                },
+                "type": "Spell",
+                "cost": "1",
+                "image": "https://i.postimg.cc/sgscw6qc/CC19.png"
+            }
+        },
+        "name": "Blurry Photograph",
+        "type": "Spell",
+        "cost": "1",
+        "attack": "",
+        "hp": "",
+        "class": "Conspiracies & Cover-ups"
+    },
+    "CC20": {
+        "id": "CC20",
+        "face": {
+            "front": {
+                "name": {
+                    "name": "Doom Scrolling"
+                },
+                "type": "Spell",
+                "cost": "2",
+                "image": "https://i.postimg.cc/GmdQq7Vj/CC20.png"
+            }
+        },
+        "name": "Doom Scrolling",
+        "type": "Spell",
+        "cost": "2",
+        "attack": "",
+        "hp": "",
+        "class": "Conspiracies & Cover-ups"
+    },
+    "CC21": {
+        "id": "CC21",
+        "face": {
+            "front": {
+                "name": {
+                    "name": "Connect the Dots"
+                },
+                "type": "Spell",
+                "cost": "3",
+                "image": "https://i.postimg.cc/YCM3bnZ8/CC21.png"
+            }
+        },
+        "name": "Connect the Dots",
+        "type": "Spell",
+        "cost": "3",
+        "attack": "",
+        "hp": "",
+        "class": "Conspiracies & Cover-ups"
+    },
+    "CC22": {
+        "id": "CC22",
+        "face": {
+            "front": {
+                "name": {
+                    "name": "The Podcast Host"
+                },
+                "type": "Minion",
+                "cost": "4",
+                "image": "https://i.postimg.cc/7ZwVmsdR/CC22.png"
+            }
+        },
+        "name": "The Podcast Host",
+        "type": "Minion",
+        "cost": "4",
+        "attack": "3",
+        "hp": "5",
+        "class": "Conspiracies & Cover-ups"
+    },
+    "CC23": {
+        "id": "CC23",
+        "face": {
+            "front": {
+                "name": {
+                    "name": "FBI Raid"
+                },
+                "type": "Spell",
+                "cost": "2",
+                "image": "https://i.postimg.cc/0yPfcWFF/CC23.png"
+            }
+        },
+        "name": "FBI Raid",
+        "type": "Spell",
+        "cost": "2",
+        "attack": "",
+        "hp": "",
+        "class": "Conspiracies & Cover-ups"
+    },
+    "CC24": {
+        "id": "CC24",
+        "face": {
+            "front": {
+                "name": {
+                    "name": "Red String and Thumbtacks"
+                },
+                "type": "Spell",
+                "cost": "2",
+                "image": "https://i.postimg.cc/bwpT3CW4/CC24.png"
+            }
+        },
+        "name": "Red String and Thumbtacks",
+        "type": "Spell",
+        "cost": "2",
+        "attack": "",
+        "hp": "",
+        "class": "Conspiracies & Cover-ups"
+    },
+    "CC25": {
+        "id": "CC25",
+        "face": {
+            "front": {
+                "name": {
+                    "name": "It's Obviously a Weather Balloon"
+                },
+                "type": "Trap",
+                "cost": "1",
+                "image": "https://i.postimg.cc/13sHJC2k/CC25.png"
+            }
+        },
+        "name": "It's Obviously a Weather Balloon",
+        "type": "Trap",
+        "cost": "1",
+        "attack": "",
+        "hp": "",
+        "class": "Conspiracies & Cover-ups"
+    },
+    "CC26": {
+        "id": "CC26",
+        "face": {
+            "front": {
+                "name": {
+                    "name": "Redacted"
+                },
+                "type": "Spell",
+                "cost": "2",
+                "image": "https://i.postimg.cc/K8f5V7h0/CC26.png"
+            }
+        },
+        "name": "Redacted",
+        "type": "Spell",
+        "cost": "2",
+        "attack": "",
+        "hp": "",
+        "class": "Conspiracies & Cover-ups"
+    },
+    "CC27": {
+        "id": "CC27",
+        "face": {
+            "front": {
+                "name": {
+                    "name": "My Boss who Hisses"
+                },
+                "type": "Minion",
+                "cost": "3",
+                "image": "https://i.postimg.cc/y8jT5hCp/CC27.png"
+            }
+        },
+        "name": "My Boss who Hisses",
+        "type": "Minion",
+        "cost": "3",
+        "attack": "3",
+        "hp": "3",
+        "class": "Conspiracies & Cover-ups"
+    },
+    "CC28": {
+        "id": "CC28",
+        "face": {
+            "front": {
+                "name": {
+                    "name": "Swamp Gas"
+                },
+                "type": "Trap",
+                "cost": "2",
+                "image": "https://i.postimg.cc/Mp5Y40JL/CC28.png"
+            }
+        },
+        "name": "Swamp Gas",
+        "type": "Trap",
+        "cost": "2",
+        "attack": "",
+        "hp": "",
+        "class": "Conspiracies & Cover-ups"
+    },
+    "CC29": {
+        "id": "CC29",
+        "face": {
+            "front": {
+                "name": {
+                    "name": "No way! Tell me you saw that!?"
+                },
+                "type": "Spell",
+                "cost": "2",
+                "image": "https://i.postimg.cc/Fsjpb5W9/CC29.png"
+            }
+        },
+        "name": "No way! Tell me you saw that!?",
+        "type": "Spell",
+        "cost": "2",
+        "attack": "",
+        "hp": "",
+        "class": "Conspiracies & Cover-ups"
+    },
+    "CC30": {
+        "id": "CC30",
+        "face": {
+            "front": {
+                "name": {
+                    "name": "El Chupacabra"
+                },
+                "type": "Minion",
+                "cost": "3",
+                "image": "https://i.postimg.cc/65dcVJjW/CC30.png"
+            }
+        },
+        "name": "El Chupacabra",
+        "type": "Minion",
+        "cost": "3",
+        "attack": "3",
+        "hp": "3",
+        "class": "Conspiracies & Cover-ups"
+    }
+}
