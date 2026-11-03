@@ -59,7 +59,7 @@
     }
   },
   "cards": {
-    "dataUrl": "https://axeium.github.io/tcg-arena-testing/cards.json",
+    "dataUrl": "https://axeium.github.io/tcg-arena-testing/fortress_cards.json",
     "cardBack": "https://i.postimg.cc/MH5wvNSJ/Fortress-Card-Back.png"
   }
 }
