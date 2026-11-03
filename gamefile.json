@@ -49,7 +49,10 @@
           "reserves": { "isHidden": "no", "height": "MEDIUM", "alignment": "CENTER"},
           "traps": { "isHidden": "yes", "height": "MEDIUM", "alignment": "CENTER"},
           "minions": { "isHidden": "no", "height": "MEDIUM", "alignment": "CENTER"}
-        }
+        },
+        "draggableTokens": [
+            {"id": "Shield", "name": "Shield", "image": "https://raw.githubusercontent.com/axeium/tcg-arena-testing/refs/heads/main/CARD_IMAGES/shield.png"}
+        ]
       }
     }
   },
