@@ -9,6 +9,7 @@
     ]
   },
   "gameplay": {
+    "draggableTokens": [{"id": "Shield", "name": "Shield", "image": "https://i.postimg.cc/2j2jHphT/shield.png"}],
     "Standard": {
       "mulligan": { 
         "startingHandSize": 5,
@@ -52,10 +53,7 @@
           "minions": { "isHidden": "no", "height": "MEDIUM", "alignment": "CENTER"}
         }
       }
-    },
-    "draggableTokens": [
-                        {"id": "Shield", "name": "Shield", "image": "https://i.postimg.cc/2j2jHphT/shield.png"}
-                        ]
+    }
   },
   "cards": {
     "dataUrl": "https://axeium.github.io/tcg-arena-testing/fortress_cards.json",
