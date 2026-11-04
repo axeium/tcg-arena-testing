@@ -3,7 +3,7 @@
   "menuBackgroundImage": "https://i.postimg.cc/yY2Q0nYc/Background-Less.jpg",
   "defaultRessources": ["https://i.postimg.cc/yY2Q0nYc/Background-Less.jpg", "https://i.postimg.cc/Gh67vzhk/Background-More.jpg"],
   "deckBuilding": {
-    "mainFilters": ["type", "cost"],
+    "mainFilters": ["class", "type", "cost"],
     "formats": [
       { "title": "Standard format", "gameplay": "Standard" }
     ]
@@ -26,8 +26,7 @@
       "sections": {
         "layout": {
           "direction": "row",
-          "content": [{"direction": "column", 
-                        "style": {"width": "30vw"},
+          "content": [{"direction": "column", "style": {"width": "30vw"},
                         "content": [
                                     {"section": "fortress"},
                                     {"direction": "row", 
@@ -39,7 +38,7 @@
                                   ]                             
                       },
                       {"direction": "column", 
-                      "content": [{"section": "traps"},
+                       "content": [{"section": "traps"},
                                   {"section": "minions"}
                                   ]
                       }
@@ -51,12 +50,12 @@
           "reserves": { "isHidden": "no", "height": "MEDIUM", "alignment": "CENTER"},
           "traps": { "isHidden": "yes", "height": "MEDIUM", "alignment": "CENTER"},
           "minions": { "isHidden": "no", "height": "MEDIUM", "alignment": "CENTER"}
-        },
-        "draggableTokens": [
-            {"id": "Shield", "name": "Shield", "image": "https://raw.githubusercontent.com/axeium/tcg-arena-testing/refs/heads/main/CARD_IMAGES/shield.png"}
-        ]
+        }
       }
-    }
+    },
+    "draggableTokens": [
+                        {"id": "Shield", "name": "Shield", "image": "https://raw.githubusercontent.com/axeium/tcg-arena-testing/refs/heads/main/CARD_IMAGES/shield.png"}
+                        ]
   },
   "cards": {
     "dataUrl": "https://axeium.github.io/tcg-arena-testing/fortress_cards.json",
