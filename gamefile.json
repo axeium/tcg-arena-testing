@@ -54,7 +54,7 @@
       }
     },
     "draggableTokens": [
-                        {"id": "Shield", "name": "Shield", "image": "https://raw.githubusercontent.com/axeium/tcg-arena-testing/refs/heads/main/CARD_IMAGES/shield.png"}
+                        {"id": "Shield", "name": "Shield", "image": "https://i.postimg.cc/2j2jHphT/shield.png"}
                         ]
   },
   "cards": {
